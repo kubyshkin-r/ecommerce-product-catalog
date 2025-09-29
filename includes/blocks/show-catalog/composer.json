@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/show-catalog",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "r.kubyshkin",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
